@@ -10,7 +10,7 @@ Projeto bem interessante, onde foi utilizado bastante JavaScript para movimentar
 1. No terminal, em um diretório de sua escolha, clonar o repositório:
 
 ```
-git clone git@github.com:lucas-da-silva/trybe-todo-list.git
+git clone git@github.com:lucas-da-silva/todo-list.git
 ```
 
 2. Dentro do reposítorio, basta abrir o arquivo index.html para visualizar o projeto no navegador. :rocket:
